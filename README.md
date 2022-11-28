@@ -10,6 +10,8 @@
 
 ### This project contains visual aids to demonstrate the capabilities and operation of this project blockchain. As the program runs, dynamic values are produced and used at the end of execution for display. The HTML file provided, allows a user to view this blockchain in a single chain model format. The data provided in this example uses information provided as each block is created and authenticated. Block number, sensor id, and encrypted transaction data is provided. Users have the ability to move nodes around and view more detailed information about each node.
 
+### To clone the project, type "git clone https://github.com/benhprentice/SecurityProject" in your terminal.
+
 ### To run the program run "main.py".
 
 
